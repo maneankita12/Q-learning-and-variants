@@ -24,9 +24,9 @@ Watkins, C. J. C. H., & Dayan, P. (1992). Q-learning.
 *Machine Learning, 8*(3–4), 279–292.
 
 ## Repository Structure
-├── FAI_capstone_project.ipynb       
-├── CS_5100_capstone_project.ipynb    
-└── README.md
+├── Grid-World-Environment.ipynb      
+├── README.md   
+└── Tic-Tac-Toe_Environment.ipynb
 
 ## Requirements
 python >= 3.10
