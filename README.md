@@ -24,7 +24,7 @@ Watkins, C. J. C. H., & Dayan, P. (1992). Q-learning.
 *Machine Learning, 8*(3–4), 279–292.
 
 ## Repository Structure
-├── Grid-World-Environment.ipynb      
+├── Grid_World_Environment.ipynb      
 ├── README.md   
 └── Tic-Tac-Toe_Environment.ipynb
 
